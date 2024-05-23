@@ -38,7 +38,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                tools:text="Бургер с грибами и сыром" />
+                tools:text="Burger with Mushrooms and Cheese" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -77,7 +77,7 @@
                 android:layout_height="wrap_content"
                 app:layout_constraintStart_toEndOf="@+id/portions"
                 app:layout_constraintTop_toBottomOf="@+id/tvIngredients"
-                android:text="1" />
+                android:text="@string/_1" />
 
             <SeekBar
                 android:id="@+id/seekBar"

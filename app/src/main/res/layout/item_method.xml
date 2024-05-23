@@ -11,6 +11,5 @@
         style="@style/StyleMethodsText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:text=" В глубокой миске смешайте говяжий фарш, лук, чеснок, соль и перец. Разделите фарш на 4 равные части и сформируйте котлеты." />
+        tools:text="In a deep bowl, mix ground beef, onion, garlic, salt, and pepper. Divide the mixture into 4 equal parts and form patties." />
 </LinearLayout>
-

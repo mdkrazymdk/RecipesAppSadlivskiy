@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="творог" />
+        tools:text="cottage cheese" />
 
     <TextView
         android:id="@+id/tvIngredientsQuantity"
@@ -36,6 +36,5 @@
         android:layout_gravity="end"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="шт" />
+        tools:text="pcs" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-

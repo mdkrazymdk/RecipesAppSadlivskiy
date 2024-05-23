@@ -29,6 +29,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/main_margin_half"
-            tools:text="Бургеры" />
+            tools:text="Burgers" />
     </LinearLayout>
 </androidx.cardview.widget.CardView>
