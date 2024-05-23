@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_ingredients">Ingredients</string>
+    <string name="title_method">Cooking Method</string>
+    <string name="title_portions">Portions:</string>
+    <string name="content_description_categories_cards">Category image</string>
+    <string name="content_description_recipes_cards">Recipe image</string>
+    <string name="content_description_categories_main_screen">Categories screen main image</string>
+    <string name="content_description_recipes_screen">Recipes screen image</string>
+    <string name="content_description_recipe_item_image">Recipe item image</string>
+</resources>
